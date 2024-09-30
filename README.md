@@ -2,6 +2,6 @@
 -👀 I’m interested in network engineering, software development, web development and industrial automation.
 -🌱 I’m currently learning cloud computing and machine learning.
 -💞️ I’m looking to collaborate on open-source projects related to networking, automation, and IoT.
--📫 How to reach me: LinkedIn or manuel.dzeco@email.com
+-📫 How to reach me: manueldzeco@gmail.com
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I love solving mechanical puzzles and tinkering with DIY electronics projects
